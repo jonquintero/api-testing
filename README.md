@@ -84,5 +84,5 @@ http://localhost:8000/api/products?name=xxxx&category=xxxxx&price=xxxxx
 If you want to see other API with DDD
 
 ```sh
-http://localhost:8000/api/products
+clone https://github.com/jonquintero/api-test-pest.git
 ```
